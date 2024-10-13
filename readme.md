@@ -10,4 +10,8 @@ In this repository, I compile useful techniques for my daily iOS app development
 
 [Transformation/Manipulation](https://github.com/DzeDze/iOS-Development-Techniques/blob/main/CollectionHigherOrderFunctions.md)
 
+### Sequence
+
+[Sequence Protocol](https://github.com/DzeDze/iOS-Development-Techniques/blob/main/SequenceProtocol.md)
+
 *To be updated*
